@@ -29,7 +29,7 @@
 """
 
 
-class Solution:
+class PatchArray:
     def min_patches(self, nums: List[int], n: int) -> int:
         missing = 1
         patch_count = 0
