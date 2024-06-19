@@ -67,6 +67,12 @@ build CMakeFiles/LeetCode_Cpp.dir/problems/sum_of_square_numbers/sum_of_square_n
   OBJECT_DIR = CMakeFiles\LeetCode_Cpp.dir
   OBJECT_FILE_DIR = CMakeFiles\LeetCode_Cpp.dir\problems\sum_of_square_numbers
 
+build CMakeFiles/LeetCode_Cpp.dir/problems/zig_zag_conversion/zig_zag_conversion.cpp.obj: CXX_COMPILER__LeetCode_Cpp_unscanned_Debug D$:/PremieraAlpha/Career/Programming/LeetCode/LeetCode_Cpp/problems/zig_zag_conversion/zig_zag_conversion.cpp || cmake_object_order_depends_target_LeetCode_Cpp
+  DEP_FILE = CMakeFiles\LeetCode_Cpp.dir\problems\zig_zag_conversion\zig_zag_conversion.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\LeetCode_Cpp.dir
+  OBJECT_FILE_DIR = CMakeFiles\LeetCode_Cpp.dir\problems\zig_zag_conversion
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target LeetCode_Cpp
@@ -75,7 +81,7 @@ build CMakeFiles/LeetCode_Cpp.dir/problems/sum_of_square_numbers/sum_of_square_n
 #############################################
 # Link the executable LeetCode_Cpp.exe
 
-build LeetCode_Cpp.exe: CXX_EXECUTABLE_LINKER__LeetCode_Cpp_Debug CMakeFiles/LeetCode_Cpp.dir/main.cpp.obj CMakeFiles/LeetCode_Cpp.dir/problems/patching_arrays/patching_arrays.cpp.obj CMakeFiles/LeetCode_Cpp.dir/problems/sum_of_square_numbers/sum_of_square_numbers.cpp.obj
+build LeetCode_Cpp.exe: CXX_EXECUTABLE_LINKER__LeetCode_Cpp_Debug CMakeFiles/LeetCode_Cpp.dir/main.cpp.obj CMakeFiles/LeetCode_Cpp.dir/problems/patching_arrays/patching_arrays.cpp.obj CMakeFiles/LeetCode_Cpp.dir/problems/sum_of_square_numbers/sum_of_square_numbers.cpp.obj CMakeFiles/LeetCode_Cpp.dir/problems/zig_zag_conversion/zig_zag_conversion.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\LeetCode_Cpp.dir

@@ -1,6 +1,5 @@
 import math
 
-
 class SumOfSquareNumbers:
     """
     633. SUM OF SQUARE NUMBERS [MEDIUM]
@@ -31,8 +30,11 @@ class SumOfSquareNumbers:
 
     ---------------------------------------------------------------------------
 
-    :param c: the non-negative integer to check
-    :return: True if there exist integers a and b such that a^2 + b^2 = c
+    Parameter:
+    c: the non-negative integer to check
+
+    Returns:
+    True if there exist integers a and b such that a^2 + b^2 = c
     """
 
     def judgeSquareSum(self, c: int) -> bool:
