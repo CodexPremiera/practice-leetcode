@@ -9,4 +9,6 @@ add_executable(LeetCode_Cpp main.cpp
         problems/sum_of_square_numbers/sum_of_square_numbers.cpp
         problems/sum_of_square_numbers/sum_of_square_numbers.h
         problems/zig_zag_conversion/zig_zag_conversion.cpp
-        problems/zig_zag_conversion/zig_zag_conversion.h)
+        problems/zig_zag_conversion/zig_zag_conversion.h
+        problems/most_profit_assigning_work/most_profit_assigning_work.cpp
+        problems/most_profit_assigning_work/most_profit_assigning_work.h)

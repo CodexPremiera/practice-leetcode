@@ -1,0 +1,15 @@
+D:\PremieraAlpha\Career\Programming\LeetCode\LeetCode_Cs\LeetCode_Cs\obj\Debug\net8.0\LeetCode_Cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\PremieraAlpha\Career\Programming\LeetCode\LeetCode_Cs\LeetCode_Cs\obj\Debug\net8.0\LeetCode_Cs.AssemblyInfoInputs.cache
+D:\PremieraAlpha\Career\Programming\LeetCode\LeetCode_Cs\LeetCode_Cs\obj\Debug\net8.0\LeetCode_Cs.AssemblyInfo.cs
+D:\PremieraAlpha\Career\Programming\LeetCode\LeetCode_Cs\LeetCode_Cs\obj\Debug\net8.0\LeetCode_Cs.csproj.CoreCompileInputs.cache
+D:\PremieraAlpha\Career\Programming\LeetCode\LeetCode_Cs\LeetCode_Cs\obj\Debug\net8.0\LeetCode_Cs.sourcelink.json
+D:\PremieraAlpha\Career\Programming\LeetCode\LeetCode_Cs\LeetCode_Cs\bin\Debug\net8.0\LeetCode_Cs.exe
+D:\PremieraAlpha\Career\Programming\LeetCode\LeetCode_Cs\LeetCode_Cs\bin\Debug\net8.0\LeetCode_Cs.deps.json
+D:\PremieraAlpha\Career\Programming\LeetCode\LeetCode_Cs\LeetCode_Cs\bin\Debug\net8.0\LeetCode_Cs.runtimeconfig.json
+D:\PremieraAlpha\Career\Programming\LeetCode\LeetCode_Cs\LeetCode_Cs\bin\Debug\net8.0\LeetCode_Cs.dll
+D:\PremieraAlpha\Career\Programming\LeetCode\LeetCode_Cs\LeetCode_Cs\bin\Debug\net8.0\LeetCode_Cs.pdb
+D:\PremieraAlpha\Career\Programming\LeetCode\LeetCode_Cs\LeetCode_Cs\obj\Debug\net8.0\LeetCode_Cs.dll
+D:\PremieraAlpha\Career\Programming\LeetCode\LeetCode_Cs\LeetCode_Cs\obj\Debug\net8.0\refint\LeetCode_Cs.dll
+D:\PremieraAlpha\Career\Programming\LeetCode\LeetCode_Cs\LeetCode_Cs\obj\Debug\net8.0\LeetCode_Cs.pdb
+D:\PremieraAlpha\Career\Programming\LeetCode\LeetCode_Cs\LeetCode_Cs\obj\Debug\net8.0\LeetCode_Cs.genruntimeconfig.cache
+D:\PremieraAlpha\Career\Programming\LeetCode\LeetCode_Cs\LeetCode_Cs\obj\Debug\net8.0\ref\LeetCode_Cs.dll
