@@ -50,7 +50,8 @@ public class MostProfitAssigningWork
      * @return The maximum profit that can be achieved after assigning the workers to the jobs.
 
      * */
-    public int MaxProfitAssignment(int[] difficulty, int[] profit, int[] worker) {
+    public int MaxProfitAssignment(int[] difficulty, int[] profit, int[] worker) 
+    {
         // sort the arrays
         Array.Sort(difficulty, profit);
         Array.Sort(worker);
